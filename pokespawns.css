@@ -1,0 +1,25 @@
+body {
+    padding-top: 50px; 
+}
+
+.navbar-header{
+    width:100% !important;
+    text-align:center;
+    padding:10px;
+}
+
+.navbar {
+    background-color:#3B5F99;
+}
+
+.select2 {
+    margin-top: 10px;
+}
+
+#map {
+    height: 100%;
+}
+#pokemon-list {
+    margin-top:10px;
+    width:100%;
+}
